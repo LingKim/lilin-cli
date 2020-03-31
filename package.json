@@ -1,0 +1,21 @@
+{
+  "name": "lilin-cli",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin": {
+    "lilin-cli": "./bin/www"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@darkobits/lolcatjs": "^3.1.3",
+    "axios": "^0.19.2",
+    "chalk": "^3.0.0",
+    "commander": "^5.0.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.3.0",
+    "inquirer": "^7.1.0",
+    "ncp": "^2.0.0",
+    "ora": "^4.0.3",
+    "shelljs": "^0.8.3"
+  }
+}
